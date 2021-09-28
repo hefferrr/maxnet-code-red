@@ -1,0 +1,661 @@
+using Application;
+using Console;
+using System;
+using File;
+using Array;
+using Util;
+using Player;
+using String;
+using Math;
+
+
+Application.RequestAdminPrivilege();
+
+
+
+function text(){
+    Console.WriteLine("Script Completion: ███████████████████░ 95%");
+    Console.WriteLine("Script Completion: ████████████████████ 100%");
+    System.RunCommand("color red");
+    while(true){
+
+        Console.WriteLine("░█████╗░░█████╗░██████╗░███████╗  "); 
+        Console.WriteLine("██╔══██╗██╔══██╗██╔══██╗██╔════╝  ");
+        Console.WriteLine("██║░░╚═╝██║░░██║██║░░██║█████╗░░  ");
+        Console.WriteLine("██║░░██╗██║░░██║██║░░██║██╔══╝░░  ");
+        Console.WriteLine("╚█████╔╝╚█████╔╝██████╔╝███████╗  ");
+        Console.WriteLine("░╚════╝░░╚════╝░╚═════╝░╚══════╝  ");
+
+
+        Console.WriteLine("██████╗░███████╗██████╗░");
+        Console.WriteLine("██╔══██╗██╔════╝██╔══██╗");
+        Console.WriteLine("██████╔╝█████╗░░██║░░██║");
+        Console.WriteLine("██╔══██╗██╔══╝░░██║░░██║");
+        Console.WriteLine("██║░░██║███████╗██████╔╝");
+        Console.WriteLine("╚═╝░░╚═╝╚══════╝╚═════╝░");
+
+
+
+        Console.WriteLine("___________________________________________________________");
+        Console.WriteLine("");
+        Console.WriteLine("Made by Hefffer | CL Nero Wolf | Master FlatFoot");
+        Console.WriteLine("");
+        Console.WriteLine("+---------------------------------------------------+");
+        Console.WriteLine("| A Ransomware & Zip Bomb Virus                     |");
+        Console.WriteLine("+---------------------------------------------------+");
+        Console.WriteLine("| PM Heffer if you want to fix your PC | £1,000,000 ");
+        Console.WriteLine("+---------------------------------------------------+");
+        System.Sleep(3);
+
+    }
+
+}
+
+function start(){
+    Console.WriteLine("Script starting ░░░░░░░░░░░░░░░░░░░░ 0%");    
+    Console.SetCurrentDirectory("");
+    File.CreateDir("" , "l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l"); //1
+    File.CreateDir("" , "l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll"); //2
+    File.CreateDir("" , "1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1"); //3
+    File.CreateDir("" , "1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1"); //4
+    File.CreateDir("" , "1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l"); //5
+    File.CreateDir("" , "1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111"); //6
+    File.CreateDir("" , "l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll"); //7
+    File.CreateDir("" , "l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1"); //8
+    File.CreateDir("" , "l1l1l1ll1ll1l1ll1l1l1l1l1lll1l1l1ll1l1l1l1l1l1ll1l"); //9
+    File.CreateDir("" , "l1l1ll1l1llll1ll1lll1ll1llll1l1l1l1l11l111l1l1l111"); //10
+    File.CreateDir("" , "11l11l1l1111l1l11ll1l1lll1ll1l1l1l1l1l1ll1llll1111"); //11
+    File.CreateDir("" , "ll1l1ll1l1l1l1llll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l"); //12
+    File.CreateDir("" , "1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1"); //13
+    File.CreateDir("" , "1l1l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l"); //14
+    File.CreateDir("" , "1l1l1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111"); //15
+    File.CreateDir("" , "l1l1llllll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll"); //16
+    File.CreateDir("" , "l1l1l1111111ll111l1l1ll1l1l1l1l1l1l1111l1l1llll1l1"); //17
+    File.CreateDir("" , "l1l1l1ll1ll1l1llll1l1l1l1lll1l1l1ll1l1l1l1l1l1ll1l"); //18
+    File.CreateDir("" , "l1l1ll1l1llll1ll1lll1ll1llll1l111l1l11l111l1l1l111"); //19
+    File.CreateDir("" , "lll11l1l1111lll11ll1l1lll1ll1l1l1l1l1l1ll1llll1111"); //20
+    File.CreateDir("" , "11l1ll111111lll11111111111lll1llllll1lll1lllll1l1l"); //21
+    File.CreateDir("" , "11l1ll11l1l1l1llll1l1l1l1l1l1l1ll1l1llll1l1l1l1l1l"); //22
+    File.CreateDir("" , "11l1ll11l1l1l1llll1l1l1l1l1l1l1l1l1l1l1l1l1l1l1l1l"); //23
+    File.CreateDir("" , "11l1ll11l1l1l1llll1l1l1l1l1l1l1l1lll1lllllllll1l1l"); //24
+    File.CreateDir("" , "11l1ll11l1l1l1llll1l1l1l1l1l1l1l1lllllllllllll1l1l"); //25
+    File.CreateDir("" , "11l1ll11l1l1l1llll1lllllllllllllllll1l1l1ll1ll1l1l"); //26
+    File.CreateDir("" , "11l1ll11l1l1l1llll1l1l1l1l1lllllllll1l1l1ll1ll1l1l"); //27
+    File.CreateDir("" , "11l1ll11l1l1l1llll1l1l1l1l1l1111111l1l1l1ll1ll1l1l"); //28
+    System.RunCommand("file create 111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.mscx");
+    System.RunCommand("file create 11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.mscx");
+    System.RunCommand("file create 1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll.mscx");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll111.mscx");
+    System.RunCommand("file create l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l.mscx");
+    System.RunCommand("file create l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111.mscx");
+    System.RunCommand("file create lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111.rip");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l.rip");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1.rip");
+    System.RunCommand("file create 111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.rip");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.rip");
+    System.RunCommand("file create 1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll.ezy");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1.ezy");
+    System.RunCommand("file create l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l.ezy");
+    System.RunCommand("file create l1l1ll1l1llll1sdsll1lll1llll1l111l1l111l1l1ll11111.ezy");
+    System.RunCommand("file create lll11l1l1111l1llfdl1l1lll1ll1l1l1l1l1l1lllll1l1l1l.ezy");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1aqq1l1l1ll1lll1ll.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1gd11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1l1sdl1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1ltwicl1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1llltoo1l1111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1whyll11l1l1l1l111.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1ldir11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1lasos1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l1hhhh1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1lll1gl1jj111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1lsl1jj1l1l1l1l111.ezy");    
+ 
+    Console.SetCurrentDirectory("r");
+    Console.WriteLine("Script Completion: ██░░░░░░░░░░░░░░░░░░ 10%");
+    File.CreateDir("r" , "l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l");
+    File.CreateDir("r" , "l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll");
+    File.CreateDir("r" , "1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1");
+    File.CreateDir("r" , "1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1");
+    File.CreateDir("r" , "1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("r" , "1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r" , "l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r" , "l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r" , "l1l1l1ll1ll1l1ll1l1l1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r" , "l1l1ll1l1llll1ll1lll1ll1llll1l1l1l1l11l111l1l1l111");
+    File.CreateDir("r" , "11l11l1l1111l1l11ll1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r" , "ll1l1ll1l1l1l1llll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("r" , "1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");
+    File.CreateDir("r" , "1l1l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("r" , "1l1l1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r" , "l1l1llllll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r" , "l1l1l1111111ll111l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r" , "l1l1l1ll1ll1l1llll1l1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r" , "l1l1ll1l1llll1ll1lll1ll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("r" , "lll11l1l1111l1l11ll1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r" , "11l1ll11l1l1l1llll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("r" , "1l1l1l1l1ll1lllll1l1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r" , "l1l1lll1l1ll1ll1lll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r" , "l1l1l11l1l111l1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r" , "l1l1l1llllll1ll1llll1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r" , "l1l1ll1l1lll11111l1l1ll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("r" , "lll11l1l1111l1l11111l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r" , "11l1ll11l1l1l1llllll1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+     System.RunCommand("file create 111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.mscx");
+    System.RunCommand("file create 11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.mscx");
+    System.RunCommand("file create 1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll.mscx");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll111.mscx");
+    System.RunCommand("file create l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l.mscx");
+    System.RunCommand("file create l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111.mscx");
+    System.RunCommand("file create lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111.rip");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l.rip");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1.rip");
+    System.RunCommand("file create 111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.rip");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.rip");
+    System.RunCommand("file create 1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll.ezy");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1.ezy");
+    System.RunCommand("file create l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l.ezy");
+    System.RunCommand("file create l1l1ll1l1llll1sdsll1lll1llll1l111l1l111l1l1ll11111.ezy");
+    System.RunCommand("file create lll11l1l1111l1llfdl1l1lll1ll1l1l1l1l1l1lllll1l1l1l.ezy");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1aqq1l1l1ll1lll1ll.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1gd11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1l1sdl1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1ltwicl1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1llltoo1l1111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1whyll11l1l1l1l111.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1ldir11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1lasos1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l1hhhh1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1lll1gl1jj111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1lsl1jj1l1l1l1l111.ezy");   
+    
+    Console.SetCurrentDirectory("r/downloads");
+    Console.WriteLine("Script Completion: ███░░░░░░░░░░░░░░░░░ 15%");
+    File.CreateDir("r/downloads" , "l1l1l1l1l111ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l");
+    File.CreateDir("r/downloads" , "l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll");
+    File.CreateDir("r/downloads" , "1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1");
+    File.CreateDir("r/downloads" , "1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1");
+    File.CreateDir("r/downloads" , "1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("r/downloads" , "1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r/downloads" , "l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r/downloads" , "l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r/downloads" , "l1l1l1ll1ll1l1ll1l1l1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r/downloads" , "l1l1ll1l1llll1ll1lll1ll1llll1l1l1l1l11l111l1l1l111");
+    File.CreateDir("r/downloads" , "11l11l1l1111l1l11ll1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r/downloads" , "ll1l1ll1l1l1l1llll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("r/downloads" , "1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");
+    File.CreateDir("r/downloads" , "1l1l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("r/downloads" , "1l1l1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r/downloads" , "l1l1llllll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r/downloads" , "l1l1l1111111ll111l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r/downloads" , "l1l1l1ll1ll1l1llll1l1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r/downloads" , "l1l1ll1l1llll1ll1lll1ll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("r/downloads" , "lll11l1l1111l1l11ll1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r/downloads" , "11l1ll11l1l1l1llll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("r/downloads" , "1l1l1l1l1ll1lllll1l1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r/downloads" , "l1l1lll1l1ll1ll1lll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r/downloads" , "l1l1l11l1l111l1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r/downloads" , "l1l1l1llllll1ll1llll1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r/downloads" , "l1l1ll1l1lll11111l1l1ll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("r/downloads" , "lll11l1l1111l1l11111l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r/downloads" , "11l1ll11l1l1l1llllll1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    System.RunCommand("file create 111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.mscx");
+    System.RunCommand("file create 11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.mscx");
+    System.RunCommand("file create 1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll.mscx");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll111.mscx");
+    System.RunCommand("file create l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l.mscx");
+    System.RunCommand("file create l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111.mscx");
+    System.RunCommand("file create lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111.rip");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l.rip");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1.rip");
+    System.RunCommand("file create 111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.rip");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.rip");
+    System.RunCommand("file create 1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll.ezy");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1.ezy");
+    System.RunCommand("file create l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l.ezy");
+    System.RunCommand("file create l1l1ll1l1llll1sdsll1lll1llll1l111l1l111l1l1ll11111.ezy");
+    System.RunCommand("file create lll11l1l1111l1llfdl1l1lll1ll1l1l1l1l1l1lllll1l1l1l.ezy");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1aqq1l1l1ll1lll1ll.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1gd11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1l1sdl1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1ltwicl1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1llltoo1l1111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1whyll11l1l1l1l111.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1ldir11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1lasos1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l1hhhh1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1lll1gl1jj111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1lsl1jj1l1l1l1l111.ezy");    
+    
+    Console.SetCurrentDirectory("r/documents");
+    Console.WriteLine("Script Completion: ████░░░░░░░░░░░░░░░░ 20%");
+    File.CreateDir("r/documents" , "l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l");
+    File.CreateDir("r/documents" , "l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll");
+    File.CreateDir("r/documents" , "1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1");
+    File.CreateDir("r/documents" , "1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1");
+    File.CreateDir("r/documents" , "1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("r/documents" , "1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r/documents" , "l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r/documents" , "l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r/documents" , "l1l1l1ll1ll1l1ll1l1l1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r/documents" , "l1l1ll1l1llll1ll1lll1ll1llll1l1l1l1l11l111l1l1l111");
+    File.CreateDir("r/documents" , "11l11l1l1111l1l11ll1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r/documents" , "ll1l1ll1l1l1l1llll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("r/documents" , "1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");
+    File.CreateDir("r/documents" , "1l1l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("r/documents" , "1l1l1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r/documents" , "l1l1llllll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r/documents" , "l1l1l1111111ll111l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r/documents" , "l1l1l1ll1ll1l1llll1l1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r/documents" , "l1l1ll1l1llll1ll1lll1ll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("r/documents" , "lll11l1l1111l1l11ll1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r/documents" , "11l1ll11l1l1l1llll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("r/documents" , "1l1l1l1l1ll1lllll1l1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("r/documents" , "l1l1lll1l1ll1ll1lll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("r/documents" , "l1l1l11l1l111l1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("r/documents" , "l1l1l1llllll1ll1llll1l1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("r/documents" , "l1l1ll1l1lll11111l1l1ll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("r/documents" , "lll11l1l1111l1l11111l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("r/documents" , "11l1ll11l1l1l1llllll1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");    
+    System.RunCommand("file create 111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.mscx");
+    System.RunCommand("file create 11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.mscx");
+    System.RunCommand("file create 1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll.mscx");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll111.mscx");
+    System.RunCommand("file create l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l.mscx");
+    System.RunCommand("file create l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111.mscx");
+    System.RunCommand("file create lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111.rip");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l.rip");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1.rip");
+    System.RunCommand("file create 111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.rip");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.rip");
+    System.RunCommand("file create 1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll.ezy");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1.ezy");
+    System.RunCommand("file create l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l.ezy");
+    System.RunCommand("file create l1l1ll1l1llll1sdsll1lll1llll1l111l1l111l1l1ll11111.ezy");
+    System.RunCommand("file create lll11l1l1111l1llfdl1l1lll1ll1l1l1l1l1l1lllll1l1l1l.ezy");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1aqq1l1l1ll1lll1ll.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1gd11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1l1sdl1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1ltwicl1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1llltoo1l1111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1whyll11l1l1l1l111.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1ldir11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1lasos1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l1hhhh1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1lll1gl1jj111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1lsl1jj1l1l1l1l111.ezy");    
+
+
+
+    Console.SetCurrentDirectory("r/programs");
+    
+    Console.WriteLine("Script Completion: █████░░░░░░░░░░░░░░░ 25%");
+    System.RunCommand("file create 111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.mscx");
+    System.RunCommand("file create 11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.mscx");
+    System.RunCommand("file create 1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll.mscx");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll111.mscx");
+    System.RunCommand("file create l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l.mscx");
+    System.RunCommand("file create l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111.mscx");
+    System.RunCommand("file create lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111.rip");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l.rip");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1.rip");
+    System.RunCommand("file create 111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l.rip");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111.rip");
+    System.RunCommand("file create 1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll.ezy");
+    System.RunCommand("file create l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1.ezy");
+    System.RunCommand("file create l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l.ezy");
+    System.RunCommand("file create l1l1ll1l1llll1sdsll1lll1llll1l111l1l111l1l1ll11111.ezy");
+    System.RunCommand("file create lll11l1l1111l1llfdl1l1lll1ll1l1l1l1l1l1lllll1l1l1l.ezy");
+    System.RunCommand("file create 11l1ll11l1l11lllll1l1l1l1l1l1l1l1aqq1l1l1ll1lll1ll.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1gd11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1l1sdl1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1ltwicl1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1llltoo1l1111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1whyll11l1l1l1l111.ezy");
+    System.RunCommand("file create 1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1ldir11l1ll11lllll1.ezy");
+    System.RunCommand("file create 111l111ll1l1llll11l1l1l1ll1llll1lasos1l1l111l1l1l1.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11l1l1l1hhhh1lll1l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l11ll1lll1gl1jj111l1l1l111.ezy");
+    System.RunCommand("file create llll1l1l1ll1ll1llll1l1l1l1l1ll1l1lsl1jj1l1l1l1l111.ezy");
+    
+
+    Console.SetCurrentDirectory("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l");
+    Console.WriteLine("Script Completion: ██████░░░░░░░░░░░░░░ 30%");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l111l1l1ll11111");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1lllll1l1l1l");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1lll1ll");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11lllll1");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "111l111ll1l1llll11l1l1l1ll1llll1l1l1l1l1l111l1l1l1");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "1l1l111ll1lll1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1l111ll11ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1l1lllll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");
+    File.CreateDir("l1l1l1l1l1l1ll1l1l1l1l1l1ll1l1l1l1l1l1llll1l1l1l1l" , "l1l1ll1llllll1ll1ll1lll1llll1l111l1l111l1l1ll11111");
+    Console.WriteLine("Script Completion: ███████░░░░░░░░░░░░░ 35%");  
+
+
+    Console.SetCurrentDirectory("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll");
+
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l111l1l1ll11111");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1lllll1l1l1l");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1lll1ll");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11lllll1");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "111l111ll1l1llll11l1l1l1ll1llll1l1l1l1l1l111l1l1l1");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "1l1l111ll1lll1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1l111ll11ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1l1lllll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");
+    File.CreateDir("l1ll1l1ll1lll1ll1lllllllllll1l1l1l1ll1l1ll1ll1l1ll" , "l1l1ll1llllll1ll1ll1lll1llll1l111l1l111l1l1ll11111");
+
+
+
+
+    Console.SetCurrentDirectory("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1");
+    Console.WriteLine("Script Completion: ████████░░░░░░░░░░░░ 40%");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l111l1l1ll11111");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1lllll1l1l1l");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1lll1ll");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11lllll1");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "111l111ll1l1llll11l1l1l1ll1llll1l1l1l1l1l111l1l1l1");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("1l111111111ll1l111111111111lll1ll1l1l1l11111l1l1l1" , "l1l1ll1llllll1ll1ll1lll1llll1l111l1l111l1l1ll11111");
+
+
+
+    Console.SetCurrentDirectory("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1");
+    Console.WriteLine("Script Completion: █████████░░░░░░░░░░░ 45%");    
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll1l1");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l111l1l1ll11111");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1lllll1l1l1l");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1lll1ll");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11lllll1");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "111l111ll1l1llll11l1l1l1ll1llll1l1l1l1l1l111l1l1l1");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    File.CreateDir("1lllllllll111111111l1l1l1llllllll11l1l111l1l1ll1l1" , "1111111111111111111111111111l1llllllllllllll1l1l1l");
+
+ 
+
+    Console.SetCurrentDirectory("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l");
+    Console.WriteLine("Script Completion: ██████████░░░░░░░░░░ 50%");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll1l1");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l111l1l1ll11111");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1lllll1l1l1l");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1lll1ll");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11lllll1");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "111l111ll1l1llll11l1l1l1ll1llll1l1l1l1l1l111l1l1l1");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("1l1l1l1ll1l1l1llll1l1l1l1ll1llll1l1l1l1l1l111l1l1l" , "1111111111111111111111111111l1llllllllllllll1l1l1l");    
+
+
+
+    Console.SetCurrentDirectory("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111");
+    Console.WriteLine("Script Completion: ███████████░░░░░░░░░ 55%");
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll1l1");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l111l1l1ll11111");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1lllll1l1l1l");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1lll1ll");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11lllll1");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "111l111ll1l1llll11l1l1l1ll1llll1l1l1l1l1l111l1l1l1");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("1l1l1l1l1ll1ll1l1ll1l1l1l11l1l1l111l11l1l1l1l1l111" , "1111111111111111111111111111l1llllllllllllll1l1l1l");  
+    
+
+
+
+    Console.SetCurrentDirectory("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");
+    Console.WriteLine("Script Completion: ████████████░░░░░░░░ 60%");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll1l1");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l111l1l1ll11111");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1lllll1l1l1l");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1lll1ll");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11lllll1");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "111l111ll1l1llll11l1l1l1ll1llll1l1l1l1l1l111l1l1l1");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("l1l1llllll1l1l1l1ll1l1l1l1l1l1l1l1l1l1l1lllll1l1ll" , "1111111111111111111111111111l1llllllllllllll1l1l1l");  
+    
+
+
+
+ 
+    Console.SetCurrentDirectory("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1");
+    Console.WriteLine("Script Completion: █████████████░░░░░░░ 65%");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "111l1l1ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "11ll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "1l1l111lll1l1l1ll1l1l1l1l1l1l1l1l1l1l1l1lllll1l1ll");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111l1l1llll1l1");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "l1l1l1ll1ll1l1111111ll1l1lll1l1l1ll1l1l1l1l1l1ll1l");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l11l111l1l1l111");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1ll1llll1111");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1ll1l1l");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11l1lll1");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "111l111ll1l1l1l1111l1l1l1ll1llll1l1l1l1l1l111l1l1l");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "1l1l111ll1l1l1l1ll1ll1l1l1l1l1l1l1l1l1l1lllll1l1ll");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "l1l1l1111111ll1l1ll1lll1l1l1l1l1l1l1111lllll1llll1");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "l1l1l1ll1ll1l1111l1ll1l1l1l1l1ll1l1l1l1l1l1l1l1l1l");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "l1l1ll1l1llll1ll1ll1lll1llll1l111l1l111l1l1ll11111");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "lll11l1l1111l1lll1l1l1lll1ll1l1l1l1l1l1lllll1l1l1l");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "11l1ll11l1l11lllll1l1l1l1l1l1l1l1lll1l1l1ll1lll1ll");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "1l1l1l111l1l1ll1l1l1l1l1l1l1l1l1l1l111l1ll11lllll1");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "111l111ll1l1llll11l1l1l1ll1llll1l1l1l1l1l111l1l1l1");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "llll1l1l1ll1ll1llll1l1l1l11l1l1l111l11l1l1l1l1l111");    
+    File.CreateDir("l1l1l1111111ll1l1l1l1ll1l1l1l1l1l1l1111l1l1llll1l1" , "1111111111111111111111111111l1llllllllllllll1l1l1l");     
+
+    
+     Console.WriteLine("Script Completion: ██████████████░░░░░░ 70%");    
+     Console.WriteLine("Script Completion: ███████████████░░░░░ 75%");    
+     Console.WriteLine("Script Completion: ████████████████░░░░ 80%");    
+     Console.WriteLine("Script Completion: █████████████████░░░ 85%");    
+     Console.WriteLine("Script Completion: ██████████████████░░ 90%");   
+}
+
+// The reason why I manually typed this all out is because if I used a .random it would take longer to create the directories
+
+deleteorigin();
+deleter();
+deletedownloads();
+deletedocuments();
+deleteprogram();
+start();
+text(); 
+
+
+
+function deleteprogram(){
+
+    string dir = "r/programs";
+    string[] files = File.FindFiles(dir);
+    number numFiles = Array.Length(files);
+    number fileIndex = 1;
+
+    Console.WriteLine("Found "..Util.ToString(numFiles).." files!");
+
+    while(fileIndex <= numFiles){
+
+    string filename = files[fileIndex]);
+    File.Delete(dir, filename);
+    Console.WriteLine(fileIndex..". "..filename.." deleted");
+    fileIndex = fileIndex + 1;
+        }
+}
+
+function deletedownloads(){
+
+    string dir = "r/downloads";
+
+    string[] files = File.FindFiles(dir);
+    number numFiles = Array.Length(files);
+    number fileIndex = 1;
+
+    Console.WriteLine("Found "..Util.ToString(numFiles).." files!");
+
+    while(fileIndex <= numFiles){
+
+    string filename = files[fileIndex]);
+    File.Delete(dir, filename);
+    Console.WriteLine(fileIndex..". "..filename.." deleted");
+    fileIndex = fileIndex + 1;
+        }
+}
+
+function deletedocuments(){
+
+    string dir = "r/documents";
+
+    string[] files = File.FindFiles(dir);
+    number numFiles = Array.Length(files);
+    number fileIndex = 1;
+
+    Console.WriteLine("Found "..Util.ToString(numFiles).." files!");
+
+    while(fileIndex <= numFiles){
+
+    string filename = files[fileIndex]);
+    File.Delete(dir, filename);
+    Console.WriteLine(fileIndex..". "..filename.." deleted");
+    fileIndex = fileIndex + 1;
+        }
+}
+
+
+function deleteorigin(){
+
+    string dir = "";
+
+    string[] files = File.FindFiles(dir);
+    number numFiles = Array.Length(files);
+    number fileIndex = 1;
+
+    Console.WriteLine("Found "..Util.ToString(numFiles).." files!");
+
+    while(fileIndex <= numFiles){
+
+    string filename = files[fileIndex]);
+    File.Delete(dir, filename);
+    Console.WriteLine(fileIndex..". "..filename.." deleted");
+    fileIndex = fileIndex + 1;
+        }
+}
+
+   
+function deleter(){
+
+    string dir = "r";
+
+    string[] files = File.FindFiles(dir);
+    number numFiles = Array.Length(files);
+    number fileIndex = 1;
+
+    Console.WriteLine("Found "..Util.ToString(numFiles).." files!");
+
+    while(fileIndex <= numFiles){
+
+    string filename = files[fileIndex]);
+    File.Delete(dir, filename);
+    Console.WriteLine(fileIndex..". "..filename.." deleted");
+    fileIndex = fileIndex + 1;
+        }
+}
+
+
+
+
+
+// end
+
+
+
+
